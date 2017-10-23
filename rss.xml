@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Behind the Curve</title>
+    <link>http://daveroberts.us/</link>
+    <description>Writing about stuff ten years too late</description>
+    <language>en-us</language>
+    
+      <item>
+        <title>On Ageism</title>
+        <link>http://daveroberts.us/posts/ageism.html</link>
+        <description>A young man's opinion</description>
+        <pubDate>Sat, 14 Oct 2017 00:00:00 </pubDate>
+      </item>
+    
+      <item>
+        <title>Writing Emails</title>
+        <link>http://daveroberts.us/posts/good-emails.html</link>
+        <description>A simple guide to writing better emails</description>
+        <pubDate>Mon, 12 Jun 2017 00:00:00 </pubDate>
+      </item>
+    
+  </channel>
+</rss>
